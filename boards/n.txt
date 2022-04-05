@@ -1,0 +1,3 @@
+26
+Rd25, Re26, Ke5, Br5, Br22, Bf16
+Ka10, Rb15, Rg15,  Rx15,Rt15 
